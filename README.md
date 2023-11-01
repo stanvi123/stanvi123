@@ -3,6 +3,8 @@
 ### Hello World 👋 It's [Tanvi Kaur!](https://portfolio-6wo3.onrender.com/)
 
 <br/>
+
+### [Tanvi's Linkedin](https://www.linkedin.com/in/tanvi-kaur-sasan/)
 <a href="https://www.linkedin.com/in/tanvi-kaur-sasan/">
 <img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
