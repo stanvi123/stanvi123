@@ -14,7 +14,7 @@
 
 Hi,I'm  Tanvi Kaur Sasan🙌, a Web Developer, Machine Learning Engineer and UI/UX Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
-<p align="right" height="300px"><img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="600" height="300"  /></p>
+<p align="right" ><img src="https://media.giphy.com/media/4Zgy9QqzWU8C3ugvCa/giphy.gif" width="300" height="600"  /></p>
 
 **Talking about Personal Stuffs:**
 
