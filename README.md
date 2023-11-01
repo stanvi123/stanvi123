@@ -4,13 +4,9 @@
 
 <br/>
 
-### [Tanvi's Linkedin](https://www.linkedin.com/in/tanvi-kaur-sasan/)
-<a href="https://www.linkedin.com/in/tanvi-kaur-sasan/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/tanvi_kaur_sasan/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+### [Linkedin](https://www.linkedin.com/in/tanvi-kaur-sasan/)
+### [Instagram](https://www.linkedin.com/in/tanvi-kaur-sasan/)
+
 <br />
 
 <br />
