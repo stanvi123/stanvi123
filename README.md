@@ -1,3 +1,4 @@
+<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
 ### Hello World 👋 It's [Tanvi Kaur!](https://portfolio-6wo3.onrender.com/)
 
 <br/>
