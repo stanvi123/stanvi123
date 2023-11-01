@@ -2,12 +2,12 @@
 
 ### Hello World 👋 It's [Tanvi Kaur!](https://portfolio-6wo3.onrender.com/)
 
-<br/>
+
 
 ### [Linkedin](https://www.linkedin.com/in/tanvi-kaur-sasan/)
 ### [Instagram](https://www.linkedin.com/in/tanvi-kaur-sasan/)
 
-<br />
+
 
 <br />
 
