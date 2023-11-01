@@ -13,7 +13,8 @@
 
 Hi,I'm  Tanvi Kaur Sasan🙌, a Web Developer, Machine Learning Engineer and UI/UX Developer. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
 
-<iframe src="https://giphy.com/embed/4Zgy9QqzWU8C3ugvCa" width="256" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/wikitude-augmented-reality-penguin-linux-4Zgy9QqzWU8C3ugvCa">via GIPHY</a></p>
+<p align="center"><img src="https://giphy.com/embed/4Zgy9QqzWU8C3ugvCa" width="600" height="300"  /></p>
+
 
 **Talking about Personal Stuffs:**
 
